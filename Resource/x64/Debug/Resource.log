@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\MD\15.ResourcePayloadPlacement\Resource\Resource\main.c(41,19): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\15.ResourcePayloadPlacement\Resource\Resource\main.c(49,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'SIZE_T'
+      C:\Users\Administrator\Desktop\MD\15.ResourcePayloadPlacement\Resource\Resource\main.c(49,9):
+      consider using '%lld' in the format string
+      C:\Users\Administrator\Desktop\MD\15.ResourcePayloadPlacement\Resource\Resource\main.c(49,9):
+      consider using '%Id' in the format string
+      C:\Users\Administrator\Desktop\MD\15.ResourcePayloadPlacement\Resource\Resource\main.c(49,9):
+      consider using '%I64d' in the format string
+  
+C:\Users\Administrator\Desktop\MD\15.ResourcePayloadPlacement\Resource\Resource\main.c(12,10): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Resource.vcxproj -> C:\Users\Administrator\Desktop\MD\15.ResourcePayloadPlacement\Resource\x64\Debug\Resource.exe
